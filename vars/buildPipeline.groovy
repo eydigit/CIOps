@@ -142,7 +142,7 @@ spec:
                                     --snapshotMode=time \
                                     --destination=${image} \
                                     --no-push=${noPushImage} \
-                                    --cache-repo=upyogio/cache/cache
+                                    --cache-repo=eydigit/cache/cache
                                 """
                                 echo "${image} pushed successfully!"
                                 }                                
